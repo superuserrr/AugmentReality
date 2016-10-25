@@ -14,6 +14,9 @@ public class RegularJavaProject {
     /**
      * @param args the command line arguments
      */
+    public void ekranaYaz(){
+        System.out.println("Bu değerler ekrana yazılacaktır.");
+    }    
     public static void main(String[] args) {
         // TODO code application logic here
         int deger=12;
