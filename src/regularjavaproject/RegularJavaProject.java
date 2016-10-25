@@ -17,6 +17,9 @@ public class RegularJavaProject {
     public void ekranaYaz(){
         System.out.println("Bu değerler ekrana yazılacaktır.");
     }    
+    public void mesajVer(String value){
+        
+    }
     public static void main(String[] args) {
         // TODO code application logic here
         int deger=12;
