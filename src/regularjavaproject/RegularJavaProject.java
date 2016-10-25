@@ -18,6 +18,7 @@ public class RegularJavaProject {
         // TODO code application logic here
         int deger=12;
         String value="GitHub";
+        System.out.println("value");
     }
     
 }
