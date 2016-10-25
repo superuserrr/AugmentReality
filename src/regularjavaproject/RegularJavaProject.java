@@ -14,6 +14,8 @@ public class RegularJavaProject {
     /**
      * @param args the command line arguments
      */
+    public void methodlar(String value){
+        
     public static void main(String[] args) {
         // TODO code application logic here
     }
